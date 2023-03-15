@@ -11,8 +11,7 @@
     "require": {
         "php": ">=5.5.0",
         "ext-libxml": "*",
-        "ext-pcre": "*",
-        "guzzlehttp/guzzle": "*"
+        "ext-pcre": "*"
     },
     "autoload":     {
         "psr-4": { "DevGuru\\SmsTrafficApi\\": "src/DevGuru/SmsTrafficApi" }
